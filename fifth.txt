@@ -1,3 +1,2 @@
 "Hello DevOps" 
 "Login feature added" 
-"Login feature added" 
